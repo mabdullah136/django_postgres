@@ -17,3 +17,8 @@
 ### Run Command
 
 - python3 manage.py runserver
+
+### Apply Orderwise Migrations
+
+- first migrate auth
+- after that migrate all apps
